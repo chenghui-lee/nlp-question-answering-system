@@ -13,7 +13,7 @@ def index():
 
 
 
-@app.route('/chatbot', methods=["GET", "POST"])
+@app.route('/chat', methods=["GET", "POST"])
 def chatbotResponse():
 
     if request.method == 'POST':
@@ -25,4 +25,4 @@ def chatbotResponse():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port='8888', debug=True)
+    app.run(host='0.0.0.0', port='13500', debug=True)
