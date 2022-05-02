@@ -19,7 +19,7 @@ cd nlp-healthcare-chatbot/
 ```
 - Create Virtual Environment (venv) with the name venv
 ```
-py -m venv venv
+python -m venv venv
 ```
 - Activate Virtual Environment 
 ```
@@ -31,7 +31,11 @@ source venv/bin/activate
 ```
 - Install dependencies
 ```
-py -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
+
+or 
+
+pip install -r requirements.txt
 ```
 - Go to Google Drive and download all the .pkl files. Put them into the resources/ folder.
 
