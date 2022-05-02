@@ -1,4 +1,14 @@
 # nlp-healthcare-chatbot
+![homepage](image.png)
+
+**NLP Healthcare Chatbot** is a chatbot that is able to answer your medical enquiries. 
+It uses Natural Language Processing techniques to understand your question and match against the answer in the system.
+
+Here are some sample questions:
+- Why we need protein?
+- What is red blood cells?
+- What is vitamin c?
+- How to increase stamina?
 
 ## Installation
 Make sure you have the latest Python (3.9 and above).
