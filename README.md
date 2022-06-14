@@ -37,7 +37,7 @@ or
 
 pip install -r requirements.txt
 ```
-- Go to Google Drive and download all the .pkl files. Put them into the resources/ folder.
+- Go to [Google Drive](https://drive.google.com/drive/folders/1I2decytopoJ9ArSkycLF9IUcYyl-3Qp_?usp=sharing) and download all the .pkl files. Put them into the resources/ folder.
 
 ## Run the program
 ```
