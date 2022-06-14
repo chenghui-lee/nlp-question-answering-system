@@ -47,3 +47,14 @@ The program will be running on localhost:13500.
 
 ## Demo website
 https://nlp-chatbot.lchenghui.com
+
+## Group Members
+Group Name: Group 3
+
+Group Members:
+- Lee Cheng Hui (17204205/1)
+- Ting Wei Jing (17205876/1)
+- Amos Tan Li Sheng (S2030533/1)
+- Ong Jack Min (17207672/1)
+- Soh Zhi Chen (17204929/1)
+
