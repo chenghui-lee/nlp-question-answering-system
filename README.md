@@ -1,5 +1,5 @@
 # nlp-question-answering-system
-
+![homepage](image.png)
 
 **NLP Question Answering System** is a question answering system that is able to answer your medical enquiries. 
 It uses Natural Language Processing techniques to understand your question and match against the answer in the system.
@@ -46,7 +46,7 @@ python app.py
 The program will be running on localhost:13500.
 
 ## Demo website
-https://nlp-chatbot.lchenghui.com
+https://nlp-qas.lchenghui.com
 
 ## Group Members
 Group Name: Group 3
