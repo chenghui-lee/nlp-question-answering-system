@@ -1,7 +1,7 @@
-# nlp-healthcare-chatbot
+# nlp-question-answering-system
 ![homepage](image.png)
 
-**NLP Healthcare Chatbot** is a chatbot that is able to answer your medical enquiries. 
+**NLP Question Answering System** is a chatbot that is able to answer your medical enquiries. 
 It uses Natural Language Processing techniques to understand your question and match against the answer in the system.
 
 Here are some sample questions:
